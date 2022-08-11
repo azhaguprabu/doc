@@ -1,7 +1,7 @@
 ### Tutorial for OpenSource Tools ###
 
-OpenStack
-Kubernetes
+*) OpenStack
+*) Kubernetes
 Istio
 Ansible
 Puppet
