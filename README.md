@@ -2,11 +2,25 @@
 
 * OpenStack
 * Kubernetes
-Istio
-Ansible
-Puppet
-Celery
-Asterisk
-MySQL
-Hadoop
-ELK/EFK
+* Istio
+* Ansible
+* Puppet
+* Teraform
+* Jenkins
+* Celery
+* Selenium
+* Docker
+* Asterisk
+* MySQL
+* Hadoop
+* ELK/EFK
+* Cisco
+* VNF
+* CheckPoint
+* F5
+* OpenVSwtich
+* GNS3
+* WireShark
+* tcpdump
+* tmux
+* Linux
