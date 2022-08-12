@@ -12,6 +12,7 @@
 * Docker
 * Asterisk
 * MySQL
+* MongoDB
 * Hadoop
 * ELK/EFK
 * Cisco
